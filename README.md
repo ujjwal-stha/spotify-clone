@@ -22,7 +22,7 @@ To clone and run this app, you'll need git and Node js also installed on your PC
 
 Clone this repository
 
-- $ git clone
+- $ git clone https://github.com/ujjwal-stha/spotify-clone.git
 
 Go into the repository
 
